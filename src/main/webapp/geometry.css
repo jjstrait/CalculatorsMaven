@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 31, 2017, 11:13:38 AM
+    Author     : jstra
+*/
+#rectangle{
+    width:200px;
+    height:100px;
+    border-color: #000000;
+    border-style: outset;
+    display: inline-block;
+    margin-left: 40%;
+}
+#main{
+    margin: auto;
+    width: 50%;
+    height: 100%;
+    border: 3px solid blue;
+    padding: 10px;  
+}
+.center{
+   
+    display: block;
+    margin : 0 auto;
+}
+
+h1{
+ text-align: center;    
+}
+#number{
+    margin-bottom: 5px;
+    
+}
+#length{   
+    
+    position: absolute;
+   
+   
+}
+table{
+    
+        
+}
+#rectCell{
+    width: 200px;
+}
+#submit{
+    margin-left: 47%;
+}
+
+
